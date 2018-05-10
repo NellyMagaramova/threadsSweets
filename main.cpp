@@ -16,7 +16,7 @@ int main(int argc, char* argv[])
 	cout << argv[0] << endl;
 
 	if (argc == 1) {
-		cout << "Expected two arguments : path to file with data and path to save file. Example:  .\threads.exe C:\\Users\\..\\text1.txt" "C:\\Users\\..\\result.txt" ;
+		cout << "Expected two arguments : path to file with data and path to save file. Example: C:\\Users\\..\\text1.txt" "C:\\Users\\..\\result.txt" ;
 		return 0;
 	}
 
